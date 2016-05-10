@@ -1,0 +1,16 @@
+.first {
+  float: left;
+  width: 27%;
+}
+
+.first p {
+  color: purple;
+}
+
+p.second {
+  color: yellow;
+}
+
+p.second .third{
+  color: red;
+}
